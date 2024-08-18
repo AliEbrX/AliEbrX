@@ -10,10 +10,10 @@
 ## Skills
 
 - **Programming Languages:** Python, JavaScript
-- **Frontend::** HTML, CSS
+- **Frontend:** HTML, CSS
 - **Frameworks and Tools:** FastApi , Django
-- **DATABASE::** SQL
-- **Other tools::** GIT
+- **DATABASE:** SQL
+- **Other tools:** GIT
 
 ## Connect with Me
 
