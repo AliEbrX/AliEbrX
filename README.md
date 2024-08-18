@@ -1,4 +1,4 @@
-# Hi, I'm Ali Ebrahimi! 👋
+# Hi, I'm Ali! 👋
 
 ## About Me
 
