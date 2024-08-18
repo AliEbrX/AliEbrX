@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @AliEbrX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Ali Ebrahimi! 👋
 
-<!---
-AliEbrX/AliEbrX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- 🌱 Continuously learning and exploring the world of technology and new innovations.
+- 🔐 Passionate about cybersecurity and data protection.
+- 🤖 Enthusiast in Artificial Intelligence and Machine Learning.
+- 💡 Always looking for innovative and challenging projects to improve my skills.
+
+## Skills
+
+- **Programming Languages:** Python, JavaScript
+- **Frontend::** HTML, CSS
+- **Frameworks and Tools:** FastApi , Django
+- **DATABASE::** SQL
+- **Other tools::** GIT
+
+## Connect with Me
+
+- [Email](mailto:AliebrX1@gmail.com)
+
+---
+
+I'm always open to learning and collaborating with others, so if you have an interesting project or just want to chat about technology, feel free to reach out!
